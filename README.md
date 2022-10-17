@@ -33,7 +33,7 @@ int main() {
     print("%s is %i years old\n", "Steve", 20);
 }
 ```
-The reason why some of the specifier letters were changed was to keep all specifiers one letter long. You can also remember the base types better, such as `int => %i` or `double => %d`
+The reason why some of the specifier letters were changed was to keep all specifiers one letter long. You can also remember the base types better, such as `int => %i` or `double => %d`. Obviously this can be changed to whatever in the source code
 
 Custom Struct Printing
 ```c
